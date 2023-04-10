@@ -6,8 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Camera-SwiftUI",
     platforms: [
-        .iOS(.v13),
-        .macCatalyst(.v14)
+        .iOS(.v13)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
